@@ -1,1 +1,7 @@
-# udacity_predictive_analytics
+# Predictive Analytics for Business 
+## Nanodegree Program
+
+## Start notebook
+`
+jupyter-lab
+`
