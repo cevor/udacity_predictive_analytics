@@ -1,0 +1,13 @@
+matplotlib
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+keras
+jupyterlab
+ipywidgets
+jupyterlab-system-monitor
+jupyterlab-lsp
+python-language-server[all]
+jupyterlab-git
