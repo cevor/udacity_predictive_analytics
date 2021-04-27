@@ -8,3 +8,4 @@ scikit-learn
 keras
 jupyter
 beautifulsoup4
+lxml
