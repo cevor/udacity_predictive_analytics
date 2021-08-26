@@ -5,6 +5,7 @@ openpyxl
 numpy
 scipy
 statsmodels
+pmdarima
 scikit-learn
 keras
 jupyter
